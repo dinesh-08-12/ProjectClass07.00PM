@@ -7,5 +7,10 @@ public class Sample {
 		System.out.println("Hiii");
 
 	}
+	
+	private void end() {
+		System.out.println("Bye");
+
+	}
 
 }
